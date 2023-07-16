@@ -10,14 +10,4 @@ const countries = [
     'Ireland',
     'Japan',
     'Kenya',
-  ]
-  
-  const webTechs = [
-    'HTML',
-    'CSS',
-    'JavaScript',
-    'React',
-    'Redux',
-    'Node',
-    'MongoDB',
-  ]
+  ];
